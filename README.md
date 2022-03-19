@@ -1,4 +1,4 @@
-## Olá, meu nome é Maria Eduarda! 😊
+## Olá, meu nome é Maria Eduarda!! 😊
 
 - 🔭 Atualmente trabalho como Estagiária em Desenvolvimento de Software | FullStack
 - 🎇 Estudante de Engenharia de Computação

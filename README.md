@@ -1,6 +1,6 @@
 ## Olá, meu nome é Maria Eduarda!!! 😊
 
-- 🔭 Atualmente trabalho como Estagiária em Desenvolvimento de Software | FullStack
+- 🔭 Atualmente trabalho como Desenvolvedora de Software | FullStack
 - 🎇 Estudante de Engenharia de Computação
 - 😄 Pronomes: ela/dela
 

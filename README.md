@@ -53,16 +53,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 
 ---
 
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dudaqfigueiredo&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 Atividade
 
 <p align="center">
@@ -81,11 +71,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 
 </p>
 
----
 
-## ✨ Visitantes
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Dudaqfigueiredo&color=blueviolet&style=for-the-badge"/>
 

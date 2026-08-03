@@ -53,15 +53,6 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudaqfigueiredo&theme=radical"/>
-
-</p>
-
----
 
 ## 🐍 Snake
 
@@ -73,6 +64,3 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Dudaqfigueiredo&color=blueviolet&style=for-the-badge"/>
-
-</p>

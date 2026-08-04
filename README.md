@@ -1,4 +1,5 @@
 <h1 align="center">Olá! Eu sou a Maria Eduarda 👋</h1>
+<img align="right" alt="Maria Eduarda" height="180" src="./profile.gif">
 
 <h3 align="center">
 Software Engineer • Full Stack • Estudante de Engenharia de Computação

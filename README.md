@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Maria Eduarda 👋</h1>
 <img align="right" alt="Maria Eduarda" height="180" src="./.github/workflows/profile.gif">
 
-<h3 align="center">
+<h3 align="center" mt="200px">
 Software Engineer • Full Stack • Estudante de Engenharia de Computação
 </h3>
 
@@ -18,6 +18,11 @@ Software Engineer • Full Stack • Estudante de Engenharia de Computação
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
+
+<br>
+<br>
+<br>
 
 ---
 
